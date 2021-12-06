@@ -1,0 +1,26 @@
+{
+  "name": "required-task-7-yakovm1ke",
+  "version": "1.0.0",
+  "description": "Написать скрипт, который отобразит на странице список имен на основе данных, полученных из файла `data.json`.\r По аналогии с скриншотом:\r ![Пример карточки](./res/1.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozon-edu-vue-2021/required-task-7-yakovm1ke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozon-edu-vue-2021/required-task-7-yakovm1ke/issues"
+  },
+  "homepage": "https://github.com/ozon-edu-vue-2021/required-task-7-yakovm1ke#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}

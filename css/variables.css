@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap");
+:root {
+  --textColorDark: #333333;
+  --textColorBright: #ffffff;
+  --hoverColor: #eeeeee;
+  --backgroundColorBright: #ffffff;
+  --backgroundColorDark: #333333;
+  --gradient: linear-gradient(90deg, var(--textColorBright) 0%, #ccccff 100%);
+  --padding: 10px;
+  --gap: 10px;
+  --borderRadius: 10px;
+  --transitionSpeed: 200ms ease;
+  font-family: "Rubik", sans-serif;
+}
